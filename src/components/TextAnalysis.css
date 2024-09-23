@@ -5,11 +5,11 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f7f7f7;
+    background-color: #756767;
   }
   
   .form-box {
-    background-color: white;
+    background-color: rgb(170, 141, 141);
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);

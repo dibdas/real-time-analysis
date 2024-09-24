@@ -29,8 +29,8 @@ npm (version >= 7.0.0)
 Getting Started
 
 1. Clone the repository
-   git clone https://github.com/your-username/text-analysis-replacement.git
-   cd text-analysis-replacement
+   git clone git@github.com:dibdas/real-time-analysis.git
+   cd real-time-analysis
 2. Install dependencies
    Run the following command to install the necessary dependencies:
    npm install
